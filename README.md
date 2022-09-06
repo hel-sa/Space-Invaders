@@ -1,5 +1,5 @@
 ## Space-Invaders
-👾 Space Invaders arcade game implemented with cpp
+👾 Space Invaders arcade game implemented with cpp 👾
 
 This version of the classic Space Invaders arcade game was implemented with C++ as a learning exrcise.
 This game was created within university's environment using the SGG simple library which you can find the documentation in here https://github.com/cgaueb/sgg . 
